@@ -1,0 +1,132 @@
+2019-11-26 11:39:06.230 +07:00 [ERR] Error
+System.ArgumentException: ABC is not Currency!!
+   at TechnicalAssignment.Service.Controllers.CSVController.TransactionExtract(HttpPostedFileBase postedFile) in D:\Project\Test2C2P\TechnicalAssignment.Service\Controllers\CSVController.cs:line 29
+2019-11-26 11:39:06.289 +07:00 [ERR] Error
+System.ArgumentException: ABC is not Currency!!
+   at TechnicalAssignment.Service.Controllers.CSVController.TransactionExtract(HttpPostedFileBase postedFile) in D:\Project\Test2C2P\TechnicalAssignment.Service\Controllers\CSVController.cs:line 44
+   at TechnicalAssignment.Service.Controllers.ImportController.Index(HttpPostedFileBase postedFile) in D:\Project\Test2C2P\TechnicalAssignment.Service\Controllers\ImportController.cs:line 46
+2019-11-26 11:53:08.228 +07:00 [ERR] Error
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Double.Parse(String s)
+   at TechnicalAssignment.Service.Controllers.CSVController.TransactionExtract(HttpPostedFileBase postedFile) in D:\Project\Test2C2P\TechnicalAssignment.Service\Controllers\CSVController.cs:line 29
+2019-11-26 11:53:08.260 +07:00 [ERR] Error
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Double.Parse(String s)
+   at TechnicalAssignment.Service.Controllers.CSVController.TransactionExtract(HttpPostedFileBase postedFile) in D:\Project\Test2C2P\TechnicalAssignment.Service\Controllers\CSVController.cs:line 44
+   at TechnicalAssignment.Service.Controllers.ImportController.Index(HttpPostedFileBase postedFile) in D:\Project\Test2C2P\TechnicalAssignment.Service\Controllers\ImportController.cs:line 46
+2019-11-26 11:53:27.254 +07:00 [ERR] Error
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Double.Parse(String s)
+   at TechnicalAssignment.Service.Controllers.CSVController.TransactionExtract(HttpPostedFileBase postedFile) in D:\Project\Test2C2P\TechnicalAssignment.Service\Controllers\CSVController.cs:line 29
+2019-11-26 11:53:30.344 +07:00 [ERR] Error
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Double.Parse(String s)
+   at TechnicalAssignment.Service.Controllers.CSVController.TransactionExtract(HttpPostedFileBase postedFile) in D:\Project\Test2C2P\TechnicalAssignment.Service\Controllers\CSVController.cs:line 44
+   at TechnicalAssignment.Service.Controllers.ImportController.Index(HttpPostedFileBase postedFile) in D:\Project\Test2C2P\TechnicalAssignment.Service\Controllers\ImportController.cs:line 46
+2019-11-26 11:53:59.736 +07:00 [ERR] Error
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Double.Parse(String s)
+   at TechnicalAssignment.Service.Controllers.CSVController.TransactionExtract(HttpPostedFileBase postedFile) in D:\Project\Test2C2P\TechnicalAssignment.Service\Controllers\CSVController.cs:line 29
+2019-11-26 11:54:04.118 +07:00 [ERR] Error
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Double.Parse(String s)
+   at TechnicalAssignment.Service.Controllers.CSVController.TransactionExtract(HttpPostedFileBase postedFile) in D:\Project\Test2C2P\TechnicalAssignment.Service\Controllers\CSVController.cs:line 44
+   at TechnicalAssignment.Service.Controllers.ImportController.Index(HttpPostedFileBase postedFile) in D:\Project\Test2C2P\TechnicalAssignment.Service\Controllers\ImportController.cs:line 46
+2019-11-26 11:55:27.202 +07:00 [ERR] Error
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Double.Parse(String s)
+   at TechnicalAssignment.Service.Controllers.CSVController.TransactionExtract(HttpPostedFileBase postedFile) in D:\Project\Test2C2P\TechnicalAssignment.Service\Controllers\CSVController.cs:line 29
+2019-11-26 11:55:27.253 +07:00 [ERR] Error
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Double.Parse(String s)
+   at TechnicalAssignment.Service.Controllers.CSVController.TransactionExtract(HttpPostedFileBase postedFile) in D:\Project\Test2C2P\TechnicalAssignment.Service\Controllers\CSVController.cs:line 44
+   at TechnicalAssignment.Service.Controllers.ImportController.Index(HttpPostedFileBase postedFile) in D:\Project\Test2C2P\TechnicalAssignment.Service\Controllers\ImportController.cs:line 46
+2019-11-26 11:56:03.501 +07:00 [ERR] Error
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Double.Parse(String s)
+   at TechnicalAssignment.Service.Controllers.CSVController.TransactionExtract(HttpPostedFileBase postedFile) in D:\Project\Test2C2P\TechnicalAssignment.Service\Controllers\CSVController.cs:line 29
+2019-11-26 11:56:03.664 +07:00 [ERR] Error
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Double.Parse(String s)
+   at TechnicalAssignment.Service.Controllers.CSVController.TransactionExtract(HttpPostedFileBase postedFile) in D:\Project\Test2C2P\TechnicalAssignment.Service\Controllers\CSVController.cs:line 44
+   at TechnicalAssignment.Service.Controllers.ImportController.Index(HttpPostedFileBase postedFile) in D:\Project\Test2C2P\TechnicalAssignment.Service\Controllers\ImportController.cs:line 46
+2019-11-26 11:56:34.448 +07:00 [ERR] Error
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Double.Parse(String s)
+   at TechnicalAssignment.Service.Controllers.CSVController.TransactionExtract(HttpPostedFileBase postedFile) in D:\Project\Test2C2P\TechnicalAssignment.Service\Controllers\CSVController.cs:line 29
+2019-11-26 11:56:34.480 +07:00 [ERR] Error
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Double.Parse(String s)
+   at TechnicalAssignment.Service.Controllers.CSVController.TransactionExtract(HttpPostedFileBase postedFile) in D:\Project\Test2C2P\TechnicalAssignment.Service\Controllers\CSVController.cs:line 44
+   at TechnicalAssignment.Service.Controllers.ImportController.Index(HttpPostedFileBase postedFile) in D:\Project\Test2C2P\TechnicalAssignment.Service\Controllers\ImportController.cs:line 46
+2019-11-26 11:56:41.226 +07:00 [ERR] Error
+System.ArgumentException: ABC is not Currency!!
+   at TechnicalAssignment.Service.Controllers.CSVController.TransactionExtract(HttpPostedFileBase postedFile) in D:\Project\Test2C2P\TechnicalAssignment.Service\Controllers\CSVController.cs:line 29
+2019-11-26 11:56:41.256 +07:00 [ERR] Error
+System.ArgumentException: ABC is not Currency!!
+   at TechnicalAssignment.Service.Controllers.CSVController.TransactionExtract(HttpPostedFileBase postedFile) in D:\Project\Test2C2P\TechnicalAssignment.Service\Controllers\CSVController.cs:line 44
+   at TechnicalAssignment.Service.Controllers.ImportController.Index(HttpPostedFileBase postedFile) in D:\Project\Test2C2P\TechnicalAssignment.Service\Controllers\ImportController.cs:line 46
+2019-11-26 11:56:58.329 +07:00 [ERR] Error
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.ParseExact(String s, String format, DateTimeFormatInfo dtfi, DateTimeStyles style)
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at TechnicalAssignment.Service.Controllers.CSVController.TransactionExtract(HttpPostedFileBase postedFile) in D:\Project\Test2C2P\TechnicalAssignment.Service\Controllers\CSVController.cs:line 29
+2019-11-26 11:56:58.361 +07:00 [ERR] Error
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.ParseExact(String s, String format, DateTimeFormatInfo dtfi, DateTimeStyles style)
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at TechnicalAssignment.Service.Controllers.CSVController.TransactionExtract(HttpPostedFileBase postedFile) in D:\Project\Test2C2P\TechnicalAssignment.Service\Controllers\CSVController.cs:line 44
+   at TechnicalAssignment.Service.Controllers.ImportController.Index(HttpPostedFileBase postedFile) in D:\Project\Test2C2P\TechnicalAssignment.Service\Controllers\ImportController.cs:line 46
+2019-11-26 11:57:08.448 +07:00 [ERR] Error
+System.ArgumentException: Requested value 'Approvedddd' was not found.
+   at System.Enum.EnumResult.SetFailure(ParseFailureKind failure, String failureMessageID, Object failureMessageFormatArgument)
+   at System.Enum.TryParseEnum(Type enumType, String value, Boolean ignoreCase, EnumResult& parseResult)
+   at System.Enum.Parse(Type enumType, String value, Boolean ignoreCase)
+   at TechnicalAssignment.Service.Controllers.CSVController.TransactionExtract(HttpPostedFileBase postedFile) in D:\Project\Test2C2P\TechnicalAssignment.Service\Controllers\CSVController.cs:line 29
+2019-11-26 11:57:08.489 +07:00 [ERR] Error
+System.ArgumentException: Requested value 'Approvedddd' was not found.
+   at System.Enum.EnumResult.SetFailure(ParseFailureKind failure, String failureMessageID, Object failureMessageFormatArgument)
+   at System.Enum.TryParseEnum(Type enumType, String value, Boolean ignoreCase, EnumResult& parseResult)
+   at System.Enum.Parse(Type enumType, String value, Boolean ignoreCase)
+   at TechnicalAssignment.Service.Controllers.CSVController.TransactionExtract(HttpPostedFileBase postedFile) in D:\Project\Test2C2P\TechnicalAssignment.Service\Controllers\CSVController.cs:line 44
+   at TechnicalAssignment.Service.Controllers.ImportController.Index(HttpPostedFileBase postedFile) in D:\Project\Test2C2P\TechnicalAssignment.Service\Controllers\ImportController.cs:line 46
+2019-11-26 11:59:23.155 +07:00 [ERR] Error
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Double.Parse(String s)
+   at TechnicalAssignment.Service.Controllers.CSVController.TransactionExtract(HttpPostedFileBase postedFile) in D:\Project\Test2C2P\TechnicalAssignment.Service\Controllers\CSVController.cs:line 29
+2019-11-26 11:59:23.248 +07:00 [ERR] Error
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Double.Parse(String s)
+   at TechnicalAssignment.Service.Controllers.CSVController.TransactionExtract(HttpPostedFileBase postedFile) in D:\Project\Test2C2P\TechnicalAssignment.Service\Controllers\CSVController.cs:line 45
+   at TechnicalAssignment.Service.Controllers.ImportController.Index(HttpPostedFileBase postedFile) in D:\Project\Test2C2P\TechnicalAssignment.Service\Controllers\ImportController.cs:line 46
+2019-11-26 13:29:32.287 +07:00 [ERR] Error
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Double.Parse(String s)
+   at TechnicalAssignment.Service.Controllers.CSVController.TransactionExtract(HttpPostedFileBase postedFile) in D:\Project\Test2C2P\TechnicalAssignment.Service\Controllers\CSVController.cs:line 29
+   at TechnicalAssignment.Service.Controllers.ImportController.Index(HttpPostedFileBase postedFile) in D:\Project\Test2C2P\TechnicalAssignment.Service\Controllers\ImportController.cs:line 46
+2019-11-26 13:31:27.205 +07:00 [ERR] Error
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Double.Parse(String s)
+   at TechnicalAssignment.Service.Controllers.CSVController.TransactionExtract(HttpPostedFileBase postedFile) in D:\Project\Test2C2P\TechnicalAssignment.Service\Controllers\CSVController.cs:line 29
+2019-11-26 13:31:28.177 +07:00 [ERR] Error
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Double.Parse(String s)
+   at TechnicalAssignment.Service.Controllers.CSVController.TransactionExtract(HttpPostedFileBase postedFile) in D:\Project\Test2C2P\TechnicalAssignment.Service\Controllers\CSVController.cs:line 44
+   at TechnicalAssignment.Service.Controllers.ImportController.Index(HttpPostedFileBase postedFile) in D:\Project\Test2C2P\TechnicalAssignment.Service\Controllers\ImportController.cs:line 46

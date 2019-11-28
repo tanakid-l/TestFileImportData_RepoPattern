@@ -1,0 +1,14 @@
+2019-11-25 11:06:41.318 +07:00 [ERR] Error
+System.ArgumentException: ABC is not Currency!!
+   at TechnicalAssignment.Service.Controllers.CSVController.TransactionExtract(HttpPostedFileBase postedFile) in D:\Project\Test2C2P\TechnicalAssignment.Service\Controllers\CSVController.cs:line 29
+2019-11-25 11:06:46.629 +07:00 [ERR] Error
+System.ArgumentException: ABC is not Currency!!
+   at TechnicalAssignment.Service.Controllers.CSVController.TransactionExtract(HttpPostedFileBase postedFile) in D:\Project\Test2C2P\TechnicalAssignment.Service\Controllers\CSVController.cs:line 44
+   at TechnicalAssignment.Service.Controllers.ImportController.Index(HttpPostedFileBase postedFile) in D:\Project\Test2C2P\TechnicalAssignment.Service\Controllers\ImportController.cs:line 46
+2019-11-25 11:08:16.113 +07:00 [ERR] Error
+System.ArgumentException: ABC is not Currency!!
+   at TechnicalAssignment.Service.Controllers.CSVController.TransactionExtract(HttpPostedFileBase postedFile) in D:\Project\Test2C2P\TechnicalAssignment.Service\Controllers\CSVController.cs:line 29
+2019-11-25 11:08:18.012 +07:00 [ERR] Error
+System.ArgumentException: ABC is not Currency!!
+   at TechnicalAssignment.Service.Controllers.CSVController.TransactionExtract(HttpPostedFileBase postedFile) in D:\Project\Test2C2P\TechnicalAssignment.Service\Controllers\CSVController.cs:line 44
+   at TechnicalAssignment.Service.Controllers.ImportController.Index(HttpPostedFileBase postedFile) in D:\Project\Test2C2P\TechnicalAssignment.Service\Controllers\ImportController.cs:line 46
